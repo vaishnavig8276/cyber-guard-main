@@ -1,3 +1,5 @@
+<img width="1903" height="845" alt="image" src="https://github.com/user-attachments/assets/3ca209c5-8d92-420b-b25f-4ea4fdc25dcb" />
+
 # 🛡️ Digital Fraud & Threat Defense Guard
 
 An AI-driven cybersecurity defense application built with Python and Streamlit. The system detects social engineering, financial fraud, phishing links, tampered UPI receipts, and rogue spyware apps using machine learning, computer vision, and heuristic rule engines.
