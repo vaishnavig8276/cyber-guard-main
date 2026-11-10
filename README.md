@@ -1,4 +1,5 @@
 <img width="1903" height="845" alt="image" src="https://github.com/user-attachments/assets/3ca209c5-8d92-420b-b25f-4ea4fdc25dcb" />
+<img width="1442" height="761" alt="image" src="https://github.com/user-attachments/assets/76d0f957-620c-440e-acc2-40aa7b3447e7" />
 
 # 🛡️ Digital Fraud & Threat Defense Guard
 
